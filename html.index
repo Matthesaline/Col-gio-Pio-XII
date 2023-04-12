@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+  <div class="container">
+    <img src="https://www.portalmaripa.com.br/wp-content/uploads/2020/03/logocortado-1-1024x386.jpg"/>
+  </header> 
+    <div class="corpo">
+    <div class="escrita">
+    <h2>Colégio Pio XII</h2>
+    <h4>Contato</h4>
+    
+        <p>Nome: Pio Xii, C E-Ef M Profis</p>
+        <p></p>Zona: Urbana</p>
+        <p></p>Endereço: Rua Duque de Caxias, 880 
+                  Centro
+                  85.955-000 - Maripa - Pr</p>
+        <p>Telefone: (44) 3687-1128</p>
+        <p>Email: mwrpioxii@seed.pr.gov.br</p>
+    </dl>
+    <h4>Equipe Administrativa</h4>
+    <dl>
+        <dt>Diretor(a):</dt>
+        <dd>Adriana Cristina Marquioro Baumann</dd>
+        <dt>Secretário(a):</dt>
+        <dd>Ivone Ines Papp</dd>
+    </dl>
+  </div>  
+  </div>
+<main>
+  <section class="tabela">
+    <h2>Alunos do 2 ano "B"</h2>
+    <table border="1">
+      <thead>
+        <tr>
+          <th>N</th>
+          <th>NOME</th>
+          <th>NOTA</th>
+        </tr>
+      </thead>
+        <tr>
+          <td>1</td>
+          <td>Aline</td>
+          <td>100</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Arthur</td>
+          <td>50</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Dario</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Eloísa</td>
+          <td>100</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Felipe</td>
+          <td>64</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Geovana</td>
+          <td>97</td>
+        </tr> 
+        <tr>
+          <td>7</td>
+          <td>Iago</td>
+          <td>82</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>Izabel</td>
+          <td>97</td>
+        </tr>
+        <tr>
+          <td>9</td>
+          <td>Jessica</td>
+          <td>91</td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>Leticia</td>
+          <td>84</td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>Lucas</td>
+          <td>98</td>
+        </tr>
+        <tr>
+          <td>12</td>
+          <td>Mayck</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>13</td>
+          <td>Marcos</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>14</td>
+          <td>Mirella</td>
+          <td>95</td>
+        </tr>
+        <tr>
+          <td>15</td>
+          <td>Noemi</td>
+          <td>95</td>
+        </tr> 
+        <tr>
+          <td>16</td>
+          <td>Pedro M.</td>
+          <td>57</td>
+        </tr>
+        <tr>
+          <td>17</td>
+          <td>Pedro P.</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>18</td>
+          <td>Theo</td>
+          <td>-10</td>
+        </tr>
+    </section>
+   </main>
+  </div>
+</body>
+</html>
